@@ -5,4 +5,42 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  margin: 10px;
+  padding: 15px;
+  border: 3px solid green;
+}
+
+#titulo {
+  font-size: 20px;
+}
+
+#minha_foto {
+  width: 200px;
+  margin-top: 100px;
+  margin-left: 10px;
+  border-radius: 20px;
+}
+
+#licoes_aprendidas {
+
+}
+
+#licoes_a_aprender {
+
+}
+
+#rodape {
+
+}
+
+.tabela {
+
+}
+
+.testimony {
+
+}
+
+.description {
+
 }
