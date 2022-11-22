@@ -52,7 +52,6 @@ body {
 .testimony, .description {
   line-height: 30px;
   text-align: justify;
-  justify-content: center;
 }
 
 .lado-esquerdo, .lado-direito {
