@@ -32,21 +32,30 @@ body {
 }
 
 #rodape {
-
+  margin-left: 10px;
 }
 
-.tabela th {
-color: rgb(0, 104, 40);
+.tabela, .tabela th {
+  color: rgb(0, 104, 40);
+  margin-left: 10px;
 }
 
 .testimony {
-
+  margin-left: 10px;
+  margin-right: 20px;
 }
 
 .description {
-
+  margin-right: 10px;
 }
 
 .testimony, .description {
   line-height: 30px;
+  text-align: justify;
+  justify-content: center;
+}
+
+.lado-esquerdo, .lado-direito {
+  display: inline-block;
+  width: 350px;
 }
