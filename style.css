@@ -1,40 +1,42 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: 'Alegreya', serif;
 }
 
 #cabecalho {
   position: fixed;
   top: 0;
-  margin: 10px;
-  padding: 15px;
+  margin: 0px 10px;
+  padding: 10px 190px;
   border: 3px solid green;
+  background-color: #2fff7f;
 }
 
 #titulo {
-  font-size: 20px;
+  font-size: 35px;
 }
 
 #minha_foto {
   width: 200px;
-  margin-top: 100px;
+  margin-top: 130px;
   margin-left: 10px;
   border-radius: 20px;
 }
 
 #licoes_aprendidas {
-
+  color: rgb(0, 104, 40);
 }
 
 #licoes_a_aprender {
-
+  color: rgb(129, 20, 20);
 }
 
 #rodape {
 
 }
 
-.tabela {
-
+.tabela th {
+color: rgb(0, 104, 40);
 }
 
 .testimony {
@@ -43,4 +45,8 @@ body {
 
 .description {
 
+}
+
+.testimony, .description {
+  line-height: 30px;
 }
